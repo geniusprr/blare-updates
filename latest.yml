@@ -1,8 +1,8 @@
-version: 1.0.8
+version: 1.0.9
 files:
-  - url: Blare-Setup-1.0.8.exe
-    sha512: ZoI2akRNwXXBY6TwDocVLBdV5FYzkb1nCtjzwOB3cktW8yigFa7GaF4ewHX+DVs6hysEFFJw4UmgeYKV8YFs0g==
-    size: 85086551
-path: Blare-Setup-1.0.8.exe
-sha512: ZoI2akRNwXXBY6TwDocVLBdV5FYzkb1nCtjzwOB3cktW8yigFa7GaF4ewHX+DVs6hysEFFJw4UmgeYKV8YFs0g==
-releaseDate: '2026-03-21T18:37:54.269Z'
+  - url: Blare-Setup-1.0.9.exe
+    sha512: ItmfCxRSYNlpND5+mhzSTY1ixQr2jqTbjZSEhZajeaAszmYO5S/PmDjhiRofdKoqeCKQY8EKXPfgSp2CGR1nNg==
+    size: 85093751
+path: Blare-Setup-1.0.9.exe
+sha512: ItmfCxRSYNlpND5+mhzSTY1ixQr2jqTbjZSEhZajeaAszmYO5S/PmDjhiRofdKoqeCKQY8EKXPfgSp2CGR1nNg==
+releaseDate: '2026-03-28T19:47:52.513Z'
